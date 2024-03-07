@@ -1,0 +1,6 @@
+#set versions_from_genode_dir   ../genode
+
+set depot_dir                  ../genode/depot
+set public_dir                 ../genode/public
+
+set common_var_dir             var
